@@ -1,6 +1,8 @@
 Top News Web App
 Contributors of This App
 By James Malla
+
+
 Description
 This is a simple news web app that allows users to:
 
